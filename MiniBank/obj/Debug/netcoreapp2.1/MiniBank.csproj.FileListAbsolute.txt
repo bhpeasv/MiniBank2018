@@ -1,0 +1,9 @@
+C:\Users\bhp\source\repos\SDM\MiniBank2018\MiniBank\bin\Debug\netcoreapp2.1\MiniBank.deps.json
+C:\Users\bhp\source\repos\SDM\MiniBank2018\MiniBank\bin\Debug\netcoreapp2.1\MiniBank.dll
+C:\Users\bhp\source\repos\SDM\MiniBank2018\MiniBank\bin\Debug\netcoreapp2.1\MiniBank.pdb
+C:\Users\bhp\source\repos\SDM\MiniBank2018\MiniBank\obj\Debug\netcoreapp2.1\MiniBank.csproj.CoreCompileInputs.cache
+C:\Users\bhp\source\repos\SDM\MiniBank2018\MiniBank\obj\Debug\netcoreapp2.1\MiniBank.AssemblyInfoInputs.cache
+C:\Users\bhp\source\repos\SDM\MiniBank2018\MiniBank\obj\Debug\netcoreapp2.1\MiniBank.AssemblyInfo.cs
+C:\Users\bhp\source\repos\SDM\MiniBank2018\MiniBank\obj\Debug\netcoreapp2.1\MiniBank.dll
+C:\Users\bhp\source\repos\SDM\MiniBank2018\MiniBank\obj\Debug\netcoreapp2.1\MiniBank.pdb
+C:\Users\bhp\source\repos\SDM\MiniBank2018\MiniBank\obj\Debug\netcoreapp2.1\MiniBank.csprojAssemblyReference.cache

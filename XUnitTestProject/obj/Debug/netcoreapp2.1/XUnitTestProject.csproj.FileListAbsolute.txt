@@ -1,0 +1,17 @@
+C:\Users\bhp\source\repos\SDM\MiniBank2018\XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\bhp\source\repos\SDM\MiniBank2018\XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\bhp\source\repos\SDM\MiniBank2018\XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\bhp\source\repos\SDM\MiniBank2018\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.deps.json
+C:\Users\bhp\source\repos\SDM\MiniBank2018\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.runtimeconfig.json
+C:\Users\bhp\source\repos\SDM\MiniBank2018\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.runtimeconfig.dev.json
+C:\Users\bhp\source\repos\SDM\MiniBank2018\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.dll
+C:\Users\bhp\source\repos\SDM\MiniBank2018\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.pdb
+C:\Users\bhp\source\repos\SDM\MiniBank2018\XUnitTestProject\bin\Debug\netcoreapp2.1\MiniBank.dll
+C:\Users\bhp\source\repos\SDM\MiniBank2018\XUnitTestProject\bin\Debug\netcoreapp2.1\MiniBank.pdb
+C:\Users\bhp\source\repos\SDM\MiniBank2018\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.csprojAssemblyReference.cache
+C:\Users\bhp\source\repos\SDM\MiniBank2018\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\bhp\source\repos\SDM\MiniBank2018\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.AssemblyInfoInputs.cache
+C:\Users\bhp\source\repos\SDM\MiniBank2018\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.AssemblyInfo.cs
+C:\Users\bhp\source\repos\SDM\MiniBank2018\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.csproj.CopyComplete
+C:\Users\bhp\source\repos\SDM\MiniBank2018\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.dll
+C:\Users\bhp\source\repos\SDM\MiniBank2018\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.pdb
