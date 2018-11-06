@@ -11,7 +11,11 @@ namespace XUnitTestProject
 {
     public class BankAccountManagerTest
     {
+        // Mocking out the repository
         private Mock<IRepository<int, IBankAccount>> mockRepo = new Mock<IRepository<int, IBankAccount>>();
+        
+        // Data structure for the mock object
+        // All the methods of the Mock object operates on this instance.
         private Dictionary<int, IBankAccount> accounts = new Dictionary<int, IBankAccount>();
 
         public BankAccountManagerTest()
